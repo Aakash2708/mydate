@@ -15,8 +15,9 @@ Net_salery =basic+Housing+Transport-Tax-cts
 mydate = datetime.datetime.now()
 mydate.strftime("%B")
 print(Name,Net_salery,'IS YOUR SALERY FOR THE MONTH OF',mydate.strftime("%B"))
+print("plz enter your mail in code in line 19")
 print()
-sender_mail = "virtualoffice456.mypc@gmail.com"
+sender_mail = "xyz@gmail.com"
 rec_mail= (ed)
 password = input("plz enter the password")
 message = "Hi "+ str(Name)+"\n\nyour salery "+str(Net_salery)+" is created to your account SBIxxxx904 for the month of "+str(mydate.strftime("%B"))+" \nfor further details contact to your manager:8279980122.\n\nThank You\nVitual office team;"
