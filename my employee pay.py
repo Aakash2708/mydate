@@ -15,7 +15,7 @@ Net_salery =basic+Housing+Transport-Tax-cts
 mydate = datetime.datetime.now()
 mydate.strftime("%B")
 print(Name,Net_salery,'IS YOUR SALERY FOR THE MONTH OF',mydate.strftime("%B"))
-print("plz enter your mail in code in line 19")
+print("plz enter your mail in code in line 20")
 print()
 sender_mail = "xyz@gmail.com"
 rec_mail= (ed)
