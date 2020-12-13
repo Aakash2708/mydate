@@ -123,7 +123,7 @@ while True:
             server.login(msg,password )
             server.send_message(msg)
             server.quit()
-            print("email has been send to ")
+            print("email has been send  ")
         except Exception as e:
             print("something went wrong ", e)
 
